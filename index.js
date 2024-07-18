@@ -1,6 +1,7 @@
 let apikey="e0afc93feba64fbaa041d5d53f687985";
 // e0afc93feba64fbaa041d5d53f687985
 let url= `https://newsapi.org/v2/top-headlines?country=in&apiKey=e0afc93feba64fbaa041d5d53f687985`;
+// let url= `https://brown-dibbler-cuff.cyclic.app/`;
 let newscard= document.getElementById("newscard");
  
 console.log(" its a news side ");
